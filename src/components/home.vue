@@ -294,7 +294,7 @@ export default {
            this.ispassword=0;
            this.isziliao=0;
            if(this.newpassword!=this. confirmpassword){
-               alert('两次输入密码有误')
+               alert('两次输入密码有误');
            }
       },
     showziliao(){
