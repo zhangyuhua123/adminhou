@@ -48,6 +48,7 @@
     methods:{
        done() {
          console.log('der');
+         console.log('dedede');
       this.failure = 0;
     },
      
