@@ -47,6 +47,7 @@
    
     methods:{
        done() {
+         console.log('der');
       this.failure = 0;
     },
      
